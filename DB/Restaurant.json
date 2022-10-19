@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "name": "jemin",
+      "email": "jemin@test.com",
+      "password": "Demo@123",
+      "id": 1
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "jemin khunt",
+      "address": "demo",
+      "contact": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "Fleur Gill",
+      "address": "Vero iure dignissimo",
+      "contact": "Sapiente sed sint re",
+      "id": 2
+    }
+  ]
+}
